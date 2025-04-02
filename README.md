@@ -12,5 +12,4 @@ What You'll Find Here:
 3.Experimentation with new programming concepts
 
 Connect With Me
-📧 Email: hamzahassanmir62@gmail.com
 🏆 LeetCode: https://leetcode.com/u/rehT2vuSqq/
