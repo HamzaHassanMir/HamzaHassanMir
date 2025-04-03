@@ -12,4 +12,3 @@ What You'll Find Here:
 3.Experimentation with new programming concepts
 
 Connect With Me
-🏆 LeetCode: https://leetcode.com/u/rehT2vuSqq/
