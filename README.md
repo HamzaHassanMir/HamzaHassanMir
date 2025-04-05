@@ -1,14 +1,49 @@
-Welcome to My GitHub Profile! 👋
-Hi! I'm a Computer Science student currently in my 4th semester, passionate about Data Structures and Algorithms (DSA).
-I enjoy solving problems, writing efficient code, and continuously learning new technologies.
+# 👋 Hey There! I'm Hamza Mir  
 
-Interests & Skills: 
-💻 Programming Languages: C++, Python,Web development
-🏗️ Data Structures & Algorithms
+## 💻 Computer Science Student | Developer in Progress  
 
-What You'll Find Here:
-1.My DSA practice problems and implementations
-2.Contributions to open-source projects
-3.Experimentation with new programming concepts
+Welcome to my GitHub profile! I'm Hamza, a passionate student currently diving deep into the world of Data Structures and Algorithms. I enjoy learning new technologies, writing clean code, and building cool stuff with what I learn.  
 
-Connect With Me
+- 🔍 **Currently Exploring**: Data Structures & Algorithms (DSA)  
+- 🛠️ **Tech I Use**: Python, C++, Git  
+- 🌱 **Always Learning**: Best practices, problem-solving, and how to write efficient code  
+
+---
+
+## 🧰 Technologies & Tools  
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats  
+
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaMir-dev&show_icons=true&theme=tokyonight)
+
+---
+## 🚀 Goals & Aspirations  
+
+- ✔️ Master core Data Structures & Algorithms  
+- ✔️ Build real-world projects 
+- ✔️ Contribute to open-source projects  
+- ✔️ Grow as a software developer one commit at a time  
+
+---
+Thanks for stopping by! Feel free to check out my repositories, follow my journey, or connect for collaborations.  
+---
+Made with ☕ by **Hamza Mir**   
