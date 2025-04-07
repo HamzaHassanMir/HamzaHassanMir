@@ -32,8 +32,7 @@ Welcome to my GitHub profile! I'm Hamza, a passionate student currently diving d
 ---
 
 ## 🗂️ Most Used Languages on GitHub  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaMir-dev&layout=compact&theme=tokyonight)](https://github.com/HamzaMir-dev)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHassanMir&layout=compact&theme=tokyonight)](https://github.com/HamzaHassanMir)
 
 ## 📊 LeetCode Stats  
 
