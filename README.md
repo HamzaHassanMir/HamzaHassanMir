@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm Hamza, a passionate student currently diving d
 
 ## 📊 LeetCode Stats  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/HamzaMir?theme=dark&font=Source+Code+Pro&ext=heatmap)](https://leetcode.com/HamzaMir/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rehT2vuSqq?theme=dark&font=Source+Code+Pro&ext=heatmap)](https://leetcode.com/u/rehT2vuSqq/)
 
 ---
 ## 🚀 Goals & Aspirations  
