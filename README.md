@@ -35,6 +35,10 @@ Welcome to my GitHub profile! I'm Hamza, a passionate student currently diving d
 
 ![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaMir-dev&show_icons=true&theme=tokyonight)
 
+## 📊 LeetCode Stats  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/HamzaMir?theme=dark&font=Source+Code+Pro&ext=heatmap)](https://leetcode.com/HamzaMir/)
+
 ---
 ## 🚀 Goals & Aspirations  
 
