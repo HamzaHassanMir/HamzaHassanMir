@@ -34,10 +34,6 @@ Welcome to my GitHub profile! I'm Hamza, a passionate student currently diving d
 ## 🗂️ Most Used Languages on GitHub  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHassanMir&layout=compact&theme=tokyonight)](https://github.com/HamzaHassanMir)
 
-## 📊 LeetCode Stats  
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rehT2vuSqq?theme=dark&font=Source+Code+Pro&ext=heatmap)](https://leetcode.com/u/rehT2vuSqq/)
-
 ---
 ## 🚀 Goals & Aspirations  
 
