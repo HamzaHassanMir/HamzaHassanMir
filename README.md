@@ -8,6 +8,3 @@ Hi I'm am a Computer Science Major student who is <br>interested in web developm
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hamza&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
-
