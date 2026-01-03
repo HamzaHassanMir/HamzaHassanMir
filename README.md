@@ -8,3 +8,8 @@ Hi I'm am a Computer Science Major student who is <br>interested in web developm
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+<hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arfin-parween&label=Profile+Views&color=blue&style=flat-square" alt="Profile View Count" />
+</p>
