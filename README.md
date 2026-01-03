@@ -10,6 +10,4 @@ Hi I'm am a Computer Science Major student who is <br>interested in web developm
 
 <hr>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arfin-parween&label=Profile+Views&color=blue&style=flat-square" alt="Profile View Count" />
-</p>
+![](https://komarev.com/ghpvc/?username=HamzaHassanMir&color=green)
