@@ -27,7 +27,7 @@ I am a passionate developer dedicated to building scalable web applications, and
 
 ---
 <div cLassName = 'h-fit w-fit'>
-  <img src='https://unsplash.com/photos/white-and-black-laptop-bs2Ba7t69mM'>
+  ![ben-kolde-bs2Ba7t69mM-unsplash](https://github.com/user-attachments/assets/56a04b8a-ba1b-4ba0-be1b-9776e708ce69)
 </div>
 
 ---
