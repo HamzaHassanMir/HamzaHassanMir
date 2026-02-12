@@ -20,21 +20,10 @@ I am a passionate developer dedicated to building scalable web applications, and
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HamzaHassanMir&show_icons=true&theme=dracula&count_private=true" alt="Hamza's Stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHassanMir&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 * 🌐 [Portfolio Website](https://hamzahassanmir.github.io/Simple-Portfolio-Website/)
-* 💼 [LinkedIn](www.linkedin.com/in/hamza-hassan-mir)
-* 📧 [Contact Me](hamzahassanmir62@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/hamza-hassan-mir)
+* 📧 [Contact Me](mailto:hamzahassanmir62@gmail.com)
 
 ---
 <p align="center"> 
