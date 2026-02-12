@@ -26,11 +26,6 @@ I am a passionate developer dedicated to building scalable web applications, and
 * 📧 [Contact Me](mailto:hamzahassanmir62@gmail.com)
 
 ---
-<div cLassName = 'h-fit w-fit'>
-  ![ben-kolde-bs2Ba7t69mM-unsplash](https://github.com/user-attachments/assets/56a04b8a-ba1b-4ba0-be1b-9776e708ce69)
-</div>
-
----
 
 <p align="center"> 
   <i>"Bringing ideas to life through creativity and innovation."</i> 🚀
