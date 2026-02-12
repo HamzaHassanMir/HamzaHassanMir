@@ -26,6 +26,12 @@ I am a passionate developer dedicated to building scalable web applications, and
 * 📧 [Contact Me](mailto:hamzahassanmir62@gmail.com)
 
 ---
+<div cLassName = 'h-fit w-fit'>
+  <img src='https://unsplash.com/photos/white-and-black-laptop-bs2Ba7t69mM'>
+</div>
+
+---
+
 <p align="center"> 
   <i>"Bringing ideas to life through creativity and innovation."</i> 🚀
 </p>
