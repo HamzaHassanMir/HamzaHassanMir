@@ -1,12 +1,11 @@
 # Hi there, I'm Hamza Hassan Mir! 👋 
 
 ### 🚀 Full Stack Developer | Blockchain Engineer | Game Dev
-I am a passionate developer dedicated to building scalable web applications, immersive games, and innovative blockchain solutions. I bridge the gap between complex backend logic and intuitive frontend design.
+I am a passionate developer dedicated to building scalable web applications, and innovative web solutions. I bridge the gap between complex backend logic and intuitive frontend design.
 
-- 🌍  Based in **Pakistan**
-- 🧠  Currently exploring **Advanced On-Chain Market Making & AI Integration**
-- 🤝  I’m looking to collaborate on **Web3, P2E Gaming, and Scalable SaaS projects**
-- 💬  Ask me about **Solidity, Unity3D, or MERN Stack**
+- 🧠  Currently exploring **Mern Stack Development**
+- 🤝  I’m looking to collaborate on **Web development Using Mern Stack**
+- 💬  Ask me about **MERN Stack**
 
 ---
 
@@ -14,19 +13,10 @@ I am a passionate developer dedicated to building scalable web applications, imm
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Blockchain** | Solidity, Web3.js, Ethers.js, Smart Contracts (EVM), NFTs, Crypto Bots |
-| **Game Dev** | Unity3D, C#, P2E Mechanics, Mobile Games (Android/iOS) |
-| **Frontend** | React.js, Next.js, TailwindCSS, Sass, HTML5/CSS3 |
-| **Backend** | Node.js, Express.js, Firebase, AWS, PlayFab |
+| **Frontend** | React.js, TailwindCSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express.js |
 | **Database** | MongoDB, PostgreSQL, SQL |
 
----
-
-### 🏆 Featured Projects
-* **Bounce Tales Adventures** – Personal project with **1M+ downloads** on Google Play.
-* **Meta Warriors** – A Zombie Survival P2E game on Binance Smart Chain.
-* **Crickwick** – Full-stack cricket news subscription app using Node & React.
-* **Market Making Bots** – Arbitrage and liquidity bots for CEX/DEX.
 
 ---
 
@@ -42,9 +32,9 @@ I am a passionate developer dedicated to building scalable web applications, imm
 ---
 
 ### 🤝 Let's Connect!
-* 🌐 [Portfolio Website](https://mirhamzahasan.com/)
-* 💼 [LinkedIn](https://www.linkedin.com/in/mirhamzahasan/)
-* 📧 [Contact Me](mailto:your-email@example.com)
+* 🌐 [Portfolio Website](https://hamzahassanmir.github.io/Simple-Portfolio-Website/)
+* 💼 [LinkedIn](www.linkedin.com/in/hamza-hassan-mir)
+* 📧 [Contact Me](hamzahassanmir62@gmail.com)
 
 ---
 <p align="center"> 
