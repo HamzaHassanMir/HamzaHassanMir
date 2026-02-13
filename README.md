@@ -1,6 +1,7 @@
 # Hi there, I'm Hamza Hassan Mir! 👋 
 
-### 🚀 Full Stack Developer | Blockchain Engineer | Game Dev
+### 🚀 Full Stack Developer
+
 I am a passionate developer dedicated to building scalable web applications, and innovative web solutions. I bridge the gap between complex backend logic and intuitive frontend design.
 
 - 🧠  Currently exploring **Mern Stack Development**
