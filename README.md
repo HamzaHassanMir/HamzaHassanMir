@@ -16,7 +16,7 @@ I am a passionate developer dedicated to building scalable web applications, and
 | :--- | :--- |
 | **Frontend** | React.js, TailwindCSS, HTML5/CSS3 |
 | **Backend** | Node.js, Express.js |
-| **Database** | MongoDB, PostgreSQL, MySQL |
+| **Database** | MongoDB, MySQL |
 
 
 ---
