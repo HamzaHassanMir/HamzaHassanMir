@@ -25,6 +25,7 @@ I am a passionate developer dedicated to building scalable web applications, and
 * 🌐 [Portfolio Website](https://hamzahassanmir.github.io/Simple-Portfolio-Website/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/hamza-hassan-mir)
 * 📧 [Contact Me](mailto:hamzahassanmir62@gmail.com)
+* 💼 [Fiverr](https://www.fiverr.com/s/bdQbeQp)
 
 ---
 
