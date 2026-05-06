@@ -65,16 +65,6 @@ I’m passionate about writing **clean, efficient, and production-ready code**, 
 
 ---
 
-<!-- ================= STATS ================= -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaHassanMir&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaHassanMir&theme=radical" />
-</p>
-
----
-
 <!-- ================= ACHIEVEMENTS ================= -->
 ## 🏆 Achievements
 
@@ -91,11 +81,11 @@ I’m passionate about writing **clean, efficient, and production-ready code**, 
 
 🎓 **Bachelor’s in Computer Science**  
 - Virtual University of Pakistan (2025)  
-- University of Central Punjab (2023–2025)
 
 📜 **Certifications:**
 - Interactivity with JavaScript  
-- Introduction to Python Programming  
+- Introduction to Python Programming
+- The Complete Full-Stack Web Development Bootcamp
 - HTML & CSS in Depth  
 - Microsoft Office Specialist (Excel & Word)
 
