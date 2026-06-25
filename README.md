@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Hamza Hassan Mir</h1>
+<h1 align="center">Hi 👋, I'm Hamza Hassan </h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Building Scalable Web Apps</h3>
 
 <p align="center">
