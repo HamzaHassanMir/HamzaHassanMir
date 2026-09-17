@@ -1,113 +1,44 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Hamza Hassan </h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Building Scalable Web Apps</h3>
+# Hi, I'm [Hamza Mir] 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+Node+%7C+MongoDB;Problem+Solver+%7C+100%2B+LeetCode;Building+Modern+Web+Apps&center=true&width=500&height=45">
-</p>
+I’m a Full Stack Web Developer specializing in the MERN stack, with experience building responsive, scalable, and user-focused web applications using React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, JavaScript, TypeScript, and REST APIs.
+
+I’ve gained hands-on experience through roles at DevTrain Internship, as well as the Dev Weekends Full Stack AI Engineering Fellowship. I’ve also independently built full-stack projects, including a MERN e-commerce platform with authentication, product management, orders, and an admin dashboard.
 
 ---
 
-<!-- ================= SOCIAL LINKS ================= -->
-<p align="center">
-  <a href="mailto:hamzahassanmir62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hamza-hassan-mir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/HamzaHassanMir"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
- 
-</p>
+## About Me
+
+- 🔭 Currently working on **[React & Socket.io Project]**
+- 🌱 Exploring **[Python and ML]**
+- 💬 Ask me about **[React.js]**
+- 📫 Reach me at **[hamzahassanmir62@gmail.com]**
+- 🌐 Portfolio **[https://portfolio-website-3ybz.vercel.app/]**
 
 ---
 
-<!-- ================= SUMMARY ================= -->
-## 🚀 About Me
+## Tech Stack
 
-I'm a **Full Stack Developer specializing in the MERN stack**, focused on building **scalable, high-performance web applications**.  
-With a strong foundation in **C++ and problem-solving (100+ LeetCode problems)**, I bring analytical thinking into real-world development.
+**Frontend**
+`React` `TypeScript` `Next.js` `Tailwind CSS`
 
-I’m passionate about writing **clean, efficient, and production-ready code**, and continuously improving by working on impactful projects.
+**Backend**
+`Node.js` `Express.js` `PostgreSQL` `REST APIs`
 
----
-
-<!-- ================= CURRENT WORK ================= -->
-## 🔥 What I'm Working On
-
-- 💼 Freelancing on **Fiverr & Upwork**
-- ⚡ Building full-stack applications using **MERN stack**
-- 🧠 Strengthening problem-solving & system design skills
-- 🌐 Developing modern, responsive UI/UX experiences
+**Tools & Platforms**
+`Git` `Postman`
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-## 🛠 Tech Stack
+## Selected Projects
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧠 Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Elegant Essentials](https://github.com/HamzaHassanMir/Elegant-Essentials) | A production-ready fashion e-commerce store | React, Node.js, MongoDB, and Redux Toolkit. |
+| [eCommerce Website](https://github.com/HamzaHassanMir/eCommerce-Website-Mern-Stack) | A production-ready e-commerce store built with React, Node.js, MongoDB. Features a full storefront, admin dashboard and persistent cart state. | React, Node.js, MongoDB |
+| [College Admission System]([link](https://github.com/HamzaHassanMir/College-Admission-DataBase)) | A relational database project built in MySQL that models a college admission workflow | MySql, Sql (DDL + DML) |
 
 ---
 
-<!-- ================= ACHIEVEMENTS ================= -->
-## 🏆 Achievements
+## Let's Connect
 
-- 💡 Solved **100+ problems on LeetCode**
-- ⚡ Built multiple **full-stack MERN applications**
-- 🌐 Delivered freelance projects on **Fiverr & Upwork**
-- 🧩 Strong expertise in **REST APIs & dashboards**
-- 💳 Experience integrating **payment gateways**
-
----
-
-<!-- ================= EDUCATION ================= -->
-## 🎓 Education & Certifications
-
-🎓 **Bachelor’s in Computer Science**  
-- Virtual University of Pakistan (2025)  
-
-📜 **Certifications:**
-- Interactivity with JavaScript  
-- Introduction to Python Programming
-- The Complete Full-Stack Web Development Bootcamp
-- HTML & CSS in Depth  
-- Microsoft Office Specialist (Excel & Word)
-
----
-
-<!-- ================= CONTACT ================= -->
-## 🤝 Let's Connect & Collaborate
-
-💬 Open to:
-- Freelance Projects  
-- Collaborations  
-- Web Development Work  
-
-📧 Email: **hamzahassanmir62@gmail.com**
-
----
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamzaHassanMir&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  ⭐️ From <b>Hamza Hassan Mir</b> | Last Updated: 2026
-</p>
+[LinkedIn](https://linkedin.com/in/yourhandle) · [Portfolio](https://yoursite.com) · [Email](mailto:you@example.com)
