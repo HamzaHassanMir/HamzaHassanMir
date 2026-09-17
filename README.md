@@ -40,4 +40,4 @@ I’ve gained hands-on experience through roles at DevTrain Internship, as well 
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/hamza-hassan-mir/) · [Portfolio](https://yoursite.com](https://portfolio-website-3ybz.vercel.app/)) · [Email](mailto:hamzahassanmir62@gmail.com)
+[LinkedIn](https://linkedin.com/in/hamza-hassan-mir/) · [Portfolio](https://portfolio-website-3ybz.vercel.app/) · [Email](mailto:hamzahassanmir62@gmail.com)
