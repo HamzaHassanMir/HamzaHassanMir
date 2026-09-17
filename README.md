@@ -34,7 +34,7 @@ I’ve gained hands-on experience through roles at DevTrain Internship, as well 
 |--------|-------------|-------|
 | [Elegant Essentials](https://github.com/HamzaHassanMir/Elegant-Essentials) | A production-ready fashion e-commerce store | React, Node.js, MongoDB, and Redux Toolkit. |
 | [eCommerce Website](https://github.com/HamzaHassanMir/eCommerce-Website-Mern-Stack) | A production-ready e-commerce store built with React, Node.js, MongoDB. Features a full storefront, admin dashboard and persistent cart state. | React, Node.js, MongoDB |
-| [College Admission System]([link](https://github.com/HamzaHassanMir/College-Admission-DataBase)) | A relational database project built in MySQL that models a college admission workflow | MySql, Sql (DDL + DML) |
+| [College Admission System](https://github.com/HamzaHassanMir/College-Admission-DataBase) | A relational database project built in MySQL that models a college admission workflow | MySql, Sql (DDL + DML) |
 
 ---
 
