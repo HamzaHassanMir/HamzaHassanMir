@@ -1,4 +1,4 @@
-# Hi, I'm [Hamza Mir] 👋
+# Hi, I'm Hamza Mir 👋
 
 I’m a Full Stack Web Developer specializing in the MERN stack, with experience building responsive, scalable, and user-focused web applications using React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, JavaScript, TypeScript, and REST APIs.
 
@@ -12,7 +12,6 @@ I’ve gained hands-on experience through roles at DevTrain Internship, as well 
 - 🌱 Exploring **[Python and ML]**
 - 💬 Ask me about **[React.js]**
 - 📫 Reach me at **[hamzahassanmir62@gmail.com]**
-- 🌐 Portfolio **[https://portfolio-website-3ybz.vercel.app/]**
 
 ---
 
@@ -41,4 +40,4 @@ I’ve gained hands-on experience through roles at DevTrain Internship, as well 
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/yourhandle) · [Portfolio](https://yoursite.com) · [Email](mailto:you@example.com)
+[LinkedIn]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/hamza-hassan-mir/)) · [Portfolio]([https://yoursite.com](https://portfolio-website-3ybz.vercel.app/)) · [Email](mailto:hamzahassanmir62@gmail.com)
